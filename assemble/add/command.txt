@@ -1,0 +1,2 @@
+gcc -S simple.c
+gcc -S -O2 simple.c -o simpleO2.s
